@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scattered Berries</string>
+    <string name="start">Старт</string>
+    <string name="exit">Выход</string>
+    <string name="desc">Найдите указанный элемент в списке</string>
+    <string name="back">Назад</string>
+    <string name="game_over">Конец</string>
+    <string name="lost">Вы проиграли</string>
+</resources>

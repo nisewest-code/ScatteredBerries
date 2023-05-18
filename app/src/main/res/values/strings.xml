@@ -2,6 +2,8 @@
     <string name="app_name">Scattered Berries</string>
     <string name="start">Start</string>
     <string name="exit">Exit</string>
-    <string name="desc">Find the specified item in the list</string>
     <string name="back">Back</string>
+    <string name="game_over">Game over</string>
+    <string name="lost">You\'ve lost</string>
+    <string name="desc">Find the specified item in the list</string>
 </resources>
