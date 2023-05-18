@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932786562543",
+    "project_id": "scattered-berries",
+    "storage_bucket": "scattered-berries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932786562543:android:ab9bb4cf7380c67124021a",
+        "android_client_info": {
+          "package_name": "com.scatt.eredbe.rries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932786562543-u15aj695qgppbqkm1mbd9k036n75248m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAog9e5UjsaGgUmzT7SsEXnjZOD3MYdh9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932786562543-u15aj695qgppbqkm1mbd9k036n75248m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
